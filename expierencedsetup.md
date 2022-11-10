@@ -8,7 +8,7 @@ Package managers are used to install Operating Sstem(OS) specific software. Soft
 
 
 ## Operating System
-* [Mac OS](/mac)
-* [Linux](/linux)
-* [Windows](/windows) 
+* [Mac OS](/hapi-dev-setup/mac)
+* [Linux](/hapi-dev-setup/linux)
+* [Windows](/hapi-dev-setup/windows) 
 
