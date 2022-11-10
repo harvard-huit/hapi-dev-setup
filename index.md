@@ -36,17 +36,17 @@ The guidance is broken down between novice and experienced users.
 
 The best practice for software installation guides should consider user experience. The following developer tool installation requires no prior experience. [Software Carpentry](https://software-carpentry.org/) has prepared software [lessons](https://software-carpentry.org/lessons/) and a setup for beginning developers.
 
-* [Novice User Setup](/novicesetup)
+* [Novice User Setup](/hapi-dev-setup/novicesetup)
 
 ## Experienced Users 
 
 The following is guidance for the setup of a developer environment. Of course, experienced developers can have personal preferences for setting up their own environment. I’m not saying this is the only or best way, but could be helpful. 
 
-* [Experienced User Setup](/expierencedsetup)
+* [Experienced User Setup](/hapi-dev-setup/expierencedsetup)
 
 
 ## Additional Useful Software
 
-* [Postman](/postman)
+* [Postman](/hapi-dev-setup/postman)
 
 
