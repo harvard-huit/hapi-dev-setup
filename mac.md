@@ -23,7 +23,7 @@ Mac does not have a preinstalled package manager. Homebrew has been highly ranke
 
 ## Text Editor 
 
-* [Text Editors](/hapi-dev-setup/texteditor/)
+* [Text Editors](/hapi-dev-setup/texteditor)
 
 
 

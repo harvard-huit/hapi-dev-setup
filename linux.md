@@ -15,4 +15,4 @@ To see if your default shell is Bash type `echo $SHELL` in a terminal and press 
 ## Text Editor
 
 `Vim` and `Nano` should already be installed on most Linux distros.
-Please view addition [Text Editors](/texteditor)
+Please view addition [Text Editors](/hapi-dev-setup/texteditor)
